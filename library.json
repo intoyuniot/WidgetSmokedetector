@@ -1,0 +1,24 @@
+{
+    "name": "WidgetSmokedetector",
+    "version": "1.0.0",
+    "keywords": "Widget,Smokedetector",
+    "description": "烟雾报警应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetSmokedetector.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "dependencies":
+    [
+        {
+            "name": "MQ2",
+            "frameworks": "arduino"
+        }
+    ],
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
